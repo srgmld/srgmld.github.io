@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Arquitectura Plataforma para visualización</title>
+    <link>https://srgmld.github.io/tags/</link>
+    <description>Recent content in Tags on Arquitectura Plataforma para visualización</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-CO</language>
+    <lastBuildDate>Mon, 15 Feb 2021 12:29:40 +0600</lastBuildDate><atom:link href="https://srgmld.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlas</title>
+      <link>https://srgmld.github.io/tags/atlas/</link>
+      <pubDate>Mon, 15 Feb 2021 12:29:40 +0600</pubDate>
+      
+      <guid>https://srgmld.github.io/tags/atlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ciudades</title>
+      <link>https://srgmld.github.io/tags/ciudades/</link>
+      <pubDate>Mon, 15 Feb 2021 12:29:40 +0600</pubDate>
+      
+      <guid>https://srgmld.github.io/tags/ciudades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CPI</title>
+      <link>https://srgmld.github.io/tags/cpi/</link>
+      <pubDate>Mon, 15 Feb 2021 12:29:40 +0600</pubDate>
+      
+      <guid>https://srgmld.github.io/tags/cpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indicadores</title>
+      <link>https://srgmld.github.io/tags/indicadores/</link>
+      <pubDate>Mon, 15 Feb 2021 12:29:40 +0600</pubDate>
+      
+      <guid>https://srgmld.github.io/tags/indicadores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PNDIC</title>
+      <link>https://srgmld.github.io/tags/pndic/</link>
+      <pubDate>Mon, 15 Feb 2021 12:29:40 +0600</pubDate>
+      
+      <guid>https://srgmld.github.io/tags/pndic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizador</title>
+      <link>https://srgmld.github.io/tags/visualizador/</link>
+      <pubDate>Mon, 15 Feb 2021 12:29:40 +0600</pubDate>
+      
+      <guid>https://srgmld.github.io/tags/visualizador/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

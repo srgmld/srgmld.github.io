@@ -1,0 +1,20 @@
+---
+title: "Producto 2: Visualizador del Índice de Ciudades Prósperas (CPI)"
+author: ""
+date: 2020-12-01T21:13:14-05:00
+categories: ["R"]
+tags: ["Visualizador", "Indicadores", "CPI"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+<h3>
+<b>
+[Presiona aquí para abrir el Visualizador en una ventana externa](https://srgmld.shinyapps.io/indice_cpi/)
+</b>
+</h3>
+
+<iframe src = "https://srgmld.shinyapps.io/indice_cpi/" height = 1500px width = 1200px />
+

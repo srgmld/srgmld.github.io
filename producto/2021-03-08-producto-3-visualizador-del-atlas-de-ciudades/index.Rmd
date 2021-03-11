@@ -1,0 +1,24 @@
+---
+title: "Producto 3 - Visualizador del Atlas de Ciudades"
+author: ""
+date: 2020-12-01T21:13:14-05:00
+categories: ["R"]
+tags: ["Visualizador", "Atlas", "Ciudades"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+```
+
+<h3>
+<b>
+[Presiona aquí para abrir el Atlas en una ventana externa](https://srgmld.github.io/propuesta_vis/)
+</b>
+</h3>
+
+
+<iframe src = "https://srgmld.github.io/propuesta_vis/" height = 1500px width = 1200px />
+

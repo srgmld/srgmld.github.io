@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atlas on Arquitectura Plataforma para visualización</title>
+    <link>https://srgmld.github.io/tags/atlas/</link>
+    <description>Recent content in Atlas on Arquitectura Plataforma para visualización</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-CO</language>
+    <lastBuildDate>Mon, 15 Feb 2021 12:29:40 +0600</lastBuildDate><atom:link href="https://srgmld.github.io/tags/atlas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Producto 3 - Visualizador del Atlas de Ciudades</title>
+      <link>https://srgmld.github.io/producto/producto_3/</link>
+      <pubDate>Mon, 15 Feb 2021 12:29:40 +0600</pubDate>
+      
+      <guid>https://srgmld.github.io/producto/producto_3/</guid>
+      <description>Presiona aquí para abrir el Visualizador en una ventana externa
+Producto 3 - Visualizador del Atlas de Ciudades </description>
+    </item>
+    
+  </channel>
+</rss>
